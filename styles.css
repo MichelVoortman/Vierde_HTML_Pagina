@@ -1,0 +1,52 @@
+
+header {
+    background-color: #FEFE33;
+    border: 10px double black;
+}
+h1 {
+    color: #8601AF;
+    font-size: 80px;
+    font-family: Impact, sans-serif;
+}
+
+h2 {
+    color: #343409;
+    font-size: 60px;
+    font-family: Impact, sans-serif;
+    
+}
+
+ul {
+    color: #343409;
+    font-size: 40px;
+    background-color: #FEFE33;
+    font-family: Impact, sans-serif;
+    border: 8px double black;
+}
+
+body {
+    background-color: #EFD4F7;
+    
+}
+
+p {
+    color: #343409;
+    font-size: 20px;
+    font-family: Impact, sans-serif;
+}
+
+nav {
+    font-size: 40px; 
+    border: 8px double black; 
+    background-color: #343409;
+}
+
+footer a {
+    color:#AF01E4;
+    font-weight: bold;
+    }
+
+footer a:hover {
+    color: #CF34FE;
+    font-weight: bold;
+}
